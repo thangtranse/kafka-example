@@ -6,6 +6,12 @@ Document R&amp;D and Demo
 1. Mục Lục
 1. Khái niệm cơ bản
 1. Kafka bash
+    1. Tạo topic
+    1. Lấy thông danh sách Topic
+    1. Viết message cho topic
+    1. Lắng nghe message từ topic
+    1. Consumer topic
+3. Tài liệu tham khảo
 
 # Khái niệm cơ bản
 
