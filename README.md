@@ -61,7 +61,11 @@ Document R&amp;D and Demo
 1. Consumer topic
 
     ```sh
-    kafka-topics.sh --list --zookeeper zookeeper:2181
+    kafka-consumer-groups.sh  --list --bootstrap-server localhost:9092
+    ```
+    
+    ```sh
+    kafka-consumer-groups.sh --describe --group mygroup --bootstrap-server localhost:9092
     ```
     
 # Tài liệu tham khảo
