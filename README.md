@@ -1,6 +1,11 @@
 # kafka-example
 Document R&amp;D and Demo
 
+# Cấu trúc repo
+
+1. README .md: Hướng dẫn cơ bản về Kafka & đặt vấn đề
+1. docker: Hướng dẫn triển khai Kafka với docker
+
 # Mục Lục
 
 1. Mục Lục
