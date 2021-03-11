@@ -16,7 +16,9 @@ Document R&amp;D and Demo
     1. Viết message cho topic
     1. Lắng nghe message từ topic
     1. Consumer topic
-3. Tài liệu tham khảo
+1. Tài liệu tham khảo
+1. Tài liệu được đóng góp bởi
+
 
 # Khái niệm cơ bản
 
@@ -77,3 +79,7 @@ Document R&amp;D and Demo
 
 1. Trang chủ Kafka: https://kafka.apache.org/
 1. Câu lệnh cơ bản bắt đầu với Kafka: https://kafka.apache.org/quickstart#quickstart_kafkastreams
+
+# Tài liệu được đóng góp bởi
+
+1. @h999: https://github.com/H999
